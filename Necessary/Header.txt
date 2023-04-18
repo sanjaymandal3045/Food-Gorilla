@@ -1,0 +1,45 @@
+<header class="head">
+                <a href="#" class="logo"><i class></i>FOOD GORILLA</a>
+                <div class="navbar navtext">
+                    <a href="#home">Home</a>
+                    <a href="#menu">Menu</a>
+                    <a href="#order">Order</a>
+                    <a href="#review">Review</a>
+                    <a href="#about">About</a>
+                    <a href="#contactus">Contact Us</a>                
+                </div>
+                <div class="icons">
+                    <i class="fas fa-bars" id="responsivebar"></i>
+                    <i class="fas fa-heart"></i>
+                    <i class="fas fa-shopping-cart"></i>
+                    <!--<a href="#" class="fas fa-shopping-cart"></a>-->
+                </div>         
+            </header>
+
+
+
+
+
+<a>FOOD GORILLA</a>
+                    <div class="alllast">
+                        <a>Home</a>
+                        <a>Order</a>
+                        <a>About</a>
+                        <a>Contact Us</a>
+                    </div>
+                    <div class="lasticons">
+                        <i class="fab fa-facebook"></i>
+                        <i class="fab fa-instagram-square"></i>
+                        <i class="fab fa-twitter"></i>
+                        <i class="fab fa-linkedin-in"></i>
+                    </div>
+
+
+
+
+<div class="add">
+		<p class="itemprize">200.00/= BDT</p>
+                <i class="fas fa-minus quantity minusplus"></i>
+                <p class="">1</p>
+                <i class="fas fa-plus minusplus"></i>
+</div>
